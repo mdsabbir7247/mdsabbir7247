@@ -6,7 +6,7 @@ Passionate Computer Science student with strong skills in  DSA, OOP, OS, and pro
 
 Open to opportunities in software engineering and research projects where I can apply my problem-solving abilities and technical expertise.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  C, C++, Java, HTML, CSS, JavaScript,  ReactJS, SQL,  Linux(Basic Command), Git, GitHub.
 
 - 🌱 I’m currently learning Java Full-Stack Development 
 - 🤔 I’m looking for help with -competitive Programming problem-solving. 
