@@ -6,9 +6,7 @@ Passionate Computer Science student with strong skills in  DSA, OOP, OS, and pro
 
 Open to opportunities in software engineering and research projects where I can apply my problem-solving abilities and technical expertise.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+Skills: C, C++, Java, HTML, CSS, JavaScript, SQL, Linux(Basic Command), Git, GitHub, ReactJS.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdsabbir7247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdsabbir7274sb/)  
