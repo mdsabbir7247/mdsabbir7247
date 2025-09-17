@@ -14,9 +14,10 @@ Skills:  C, C++, Java, HTML, CSS, JavaScript,  ReactJS, SQL,  Linux(Basic Comman
 - 📫 How to reach me: www.linkedin.com/in/mdsabbir7274sb 
 
 
+/*
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdsabbir7247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mdsabbir7274sb/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbir7247)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsabbir7247&show_icons=true)  
-
+*/
